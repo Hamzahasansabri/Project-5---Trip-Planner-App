@@ -3,7 +3,7 @@ def trip_planner_welcome(name):
   name = "Hamza"
   print("Welcome to tripplanner v1.0 " + name)
 def destination_setup(origin, destination, estimated_time, mode_of_transport="Car"):
-  origin = "Miami"
+  origin = "Los Angeles"
   destination = "Moneyland"
   print("Your trip starts off in " + origin)
   print("And you are traveling to " + destination)
